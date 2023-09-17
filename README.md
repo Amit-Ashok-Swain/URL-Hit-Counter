@@ -4,12 +4,12 @@
     <img alt="Java" src="https://img.shields.io/badge/Java->=8-darkblue.svg" />
   </a>
   <a href="Maven url" >
-    <img alt="Maven" src="https://img.shields.io/badge/maven-3.0.5-brightgreen.svg" />
+    <img alt="Maven" src="https://img.shields.io/badge/maven-4.0-brightgreen.svg" />
   </a>
   <a href="Spring Boot url" >
-    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-3.0.6-brightgreen.svg" />
+    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-3.1.3-brightgreen.svg" />
   </a>
-  <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+   <img alt = "GPL v3" src="https://img.shields.io/badge/License-GPLv3-blue.svg" />
 </p>
 
 ---
@@ -180,11 +180,9 @@ Visitor hit counts are stored in-memory using a `List`. In a production environm
 
 Contributions to this project are welcome! If you have any suggestions, find issues, or want to enhance the functionality, please feel free to open an issue or submit a pull request.
 
+<!-- License -->
 ## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-</p>
+This project is licensed under the [GNU General Public License v3.0](LICENSE).
 
 <!-- Acknowledgments -->
 ## Acknowledgments
